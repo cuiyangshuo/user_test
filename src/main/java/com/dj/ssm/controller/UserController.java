@@ -123,7 +123,7 @@ public class UserController {
  * 功能描述: 通过id查询
  * @Param: [id]
  * @Return: com.dj.ssm.pojo.ResultModel
- * @Author: CYShh
+ * @Author: CYSmove
  *
  * @Date: 2020/7/13 10:49
  */
